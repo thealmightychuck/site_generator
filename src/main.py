@@ -6,7 +6,7 @@ import sys
 
 dir_path_static = "./static"
 dir_path_public = "./docs"
-template = "./content/index.md"
+template = "./content/"
 default_basepath = "/"
 
 def main():
