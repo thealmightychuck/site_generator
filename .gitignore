@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+old_main.__pycache__
+uv.lock
+static_bak/
+
